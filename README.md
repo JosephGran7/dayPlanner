@@ -1,2 +1,3 @@
 # dayPlanner
 dayplanner
+I took on thr challenge of doing most of the assignment in javascript which hasn't proven to be my strong suit. My biggest hurdle holding me up is saving the button clicks into local storage. The issue is that since its been made in javascript, I don't know how to reference the clicks as they're all being generated via the for loop in line 22 of main.js. I am still working diligently on this and waiting for a resource to free up time to provide assitance.
